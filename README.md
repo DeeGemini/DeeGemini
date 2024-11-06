@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/DeeGemini/DeeGemini/blob/main/My%20Banner%20Image.png?raw=true" alt="Profile Banner" width="100%"/>
   <h1>👋 Hi, I'm Nontuthuzelo Ngwenya</h1>
-  <p>🎓 ALX Software Engineering Graduate | 💻 Backend Developer</p>
+  <p>🎓 ALX Software Engineering Student | 💻 Backend Developer</p>
 </div>
 
 ---
