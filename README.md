@@ -1,6 +1,6 @@
 <!-- Your GitHub Profile Header -->
 <div align="center">
-  <img src="https://github.com/DeeGemini/DeeGemini/blob/main/My%20Banner%20Image.png?raw=true" alt="Profile Banner" width="100%"/>
+  <img src="https://github.com/DeeGemini/DeeGemini/blob/main/My%20banner%20image%20Student.png?raw=true" alt="Profile Banner" width="100%"/>
   <h1>👋 Hi, I'm Nontuthuzelo Ngwenya</h1>
   <p>🎓 ALX Software Engineering Student | 💻 Backend Developer</p>
 </div>
