@@ -2,7 +2,7 @@
 <!-- Your GitHub Profile Header -->
 <div align="center">
   <img src="https://github.com/DeeGemini/DeeGemini/blob/main/My%20Banner%20Image.png?raw=true" alt="Profile Banner" width="100%"/>
-  <h1>👋 Hi, I'm Nontuthuzelo Ngwenya</h1>
+  <h1>👋 Hi There, Welcome To My GitHub Page</h1>
   <p>🎓 ALX Software Engineering Graduate | 💻 Senior Backend Developer | 🤖 AI & DevSecOps Specialist</p>
 </div>
 
