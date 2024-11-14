@@ -1,7 +1,7 @@
 <html>
 <!-- Your GitHub Profile Header -->
 <div align="center">
-  <img src="https://github.com/DeeGemini/DeeGemini/blob/main/My%20banner%20image%20Student.png?raw=true" alt="Profile Banner" width="100%"/>
+  <img src="https://github.com/DeeGemini/DeeGemini/blob/main/My%20Banner%20Image.png?raw=true" alt="Profile Banner" width="100%"/>
   <h1>👋 Hi, I'm Nontuthuzelo Ngwenya</h1>
   <p>🎓 ALX Software Engineering Graduate | 💻 Senior Backend Developer | 🤖 AI & DevSecOps Specialist</p>
 </div>
@@ -14,6 +14,7 @@
   <li>🌱 I am a top 1% senior software engineer with extensive experience in backend development, AI, and DevSecOps.</li>
   <li>💡 I'm inspired by software and IoT ideas I have had over the years, which motivated me to learn programming so I could bring them to life.</li>
   <li>🎯 My goal is to create impactful software solutions that address real-world challenges. Looking to the future, I aspire to establish a platform dedicated to nurturing young, emerging developers-especially graduates and post-graduates. By building my own company, I hope to offer them real-world experience and opportunities to grow, helping shape the next generation of tech innovators.</li>
+  <li> - 🔭 I'm currently working on the Multi-Device Call Tool project which allows users to use a single phone number across multiple devices. And I am also focusing on strengthening my JS and Node.js skills, and mastering PWAs (Progressive Web Apps)</li>
 </ul>
 
 ---
